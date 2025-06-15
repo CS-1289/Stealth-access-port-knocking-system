@@ -15,11 +15,7 @@ A secure, covert access gateway that combines **Port Knocking**, **Firewall Mani
 
 ---
 
-## 🚀 Getting Started
-
----
-
-### 🧪 Project Setup
+## 🚀 Project Setup
 
 ```bash
 git clone https://github.com/CS-1289/Stealth-access-port-knocking-system.git
